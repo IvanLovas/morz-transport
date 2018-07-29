@@ -31,7 +31,7 @@ gulp.task('sass', function () {
 });
 
 gulp.task('watch', ['browser-sync', 'sass'], function () {
-    watch('./style/**/*.scss', function(){
+    watch('./scss/**/*.scss', function(){
         gulp.start('sass');
     });
     gulp.watch("./*.html").on('change', reload);

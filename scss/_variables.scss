@@ -1,0 +1,32 @@
+// Colors
+
+$mt-color-heading: #001133;
+$mt-color-text: #002b80;
+$mt-color-primary: #ff0000;
+
+// Fonts
+
+$mt-font-main: Arial, Helvetica, sans-serif;
+
+// Font-sizes
+
+$mt-font-size-default:  14px;
+$mt-font-size-md:       18px;
+$mt-font-size-l:        20px;
+$mt-font-size-xl:       35px;
+$mt-font-size-xxl:      45px;
+
+// Spacing
+
+$mt-gutter:                   1rem;
+$mt-gutter-xs:  $mt-gutter *   .25;
+$mt-gutter-sm:  $mt-gutter *    .5;
+$mt-gutter-md:  $mt-gutter *   .75;
+$mt-gutter-l:   $mt-gutter *   1.5;
+$mt-gutter-xl:  $mt-gutter *     2;
+$mt-gutter-xxl: $mt-gutter *  2.25;
+
+// Screens
+
+$mt-screen-sm:  768px;
+$mt-screen-md: 1280px;
