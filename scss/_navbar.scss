@@ -1,0 +1,13 @@
+.mt-c-navbar__item {
+    display: inline-flex;
+    color: $mt-color-black;
+    font-family: $mt-font-main;
+    padding: $mt-gutter 0;
+    margin-right: $mt-gutter;
+    position: relative;
+
+    &:hover {
+        color: $mt-color-primary;
+        border-bottom: 3px solid $mt-color-primary;
+    }
+}
