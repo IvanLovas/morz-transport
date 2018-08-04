@@ -1,0 +1,16 @@
+body {
+    font-family: $mt-font-main;
+    font-size: $mt-font-size-default;
+}
+
+h2 {
+    font-size: $mt-font-size-xxl;
+    font-family: $mt-font-main;
+    font-weight: lighter;
+    color: $mt-color-heading;
+}
+
+h3 {
+    font-size: $mt-font-size-l;
+    font-weight: bold;
+}
